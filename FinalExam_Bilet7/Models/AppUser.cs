@@ -1,0 +1,11 @@
+﻿using Microsoft.AspNetCore.Identity;
+
+namespace FinalExam_Bilet7.Models
+{
+    public class AppUser:IdentityUser
+    {
+        public string Name { get; set; }
+        public string Surname { get; set; }
+
+    }
+}

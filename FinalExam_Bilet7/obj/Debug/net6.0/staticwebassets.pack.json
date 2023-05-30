@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FinalExam_Bilet7.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FinalExam_Bilet7.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\boot.css",
+      "PackagePath": "staticwebassets\\assets\\css\\boot.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\style1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\css\\style_common.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style_common.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\3218_Computer-power-abstract-binary-code.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\3218_Computer-power-abstract-binary-code.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\66393083-7b1a-4830-969c-3541999b38e02023-bmw-i7-front-1650375835.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\66393083-7b1a-4830-969c-3541999b38e02023-bmw-i7-front-1650375835.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\Alexandra-M-Team-Leader.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Alexandra-M-Team-Leader.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\Beautiful-girl-listen-music-so-happy.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Beautiful-girl-listen-music-so-happy.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\IMG_0195.png",
+      "PackagePath": "staticwebassets\\assets\\img\\IMG_0195.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\Zac-Efron-7-1600.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Zac-Efron-7-1600.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\a-new-beginning.png",
+      "PackagePath": "staticwebassets\\assets\\img\\a-new-beginning.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\airplane-take-off-at-sunset-hd-wallpaper.png",
+      "PackagePath": "staticwebassets\\assets\\img\\airplane-take-off-at-sunset-hd-wallpaper.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\beautiful-girl-hat-wallpaper-43323-44368-hd-wallpapers.png",
+      "PackagePath": "staticwebassets\\assets\\img\\beautiful-girl-hat-wallpaper-43323-44368-hd-wallpapers.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\beautiful-smile-girl.png",
+      "PackagePath": "staticwebassets\\assets\\img\\beautiful-smile-girl.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\c997953e-fedc-4772-b577-e84e8bc5f88a2023-bmw-i7-front-1650375835.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\c997953e-fedc-4772-b577-e84e8bc5f88a2023-bmw-i7-front-1650375835.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\cb6c2b3c-2101-41c6-8ddd-0f1d4d21ed3d2023-bmw-i7-front-1650375835.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cb6c2b3c-2101-41c6-8ddd-0f1d4d21ed3d2023-bmw-i7-front-1650375835.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\e58e9b95-3ead-4888-8394-ef751cbf54b19398.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\e58e9b95-3ead-4888-8394-ef751cbf54b19398.webp"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\lz2prlf1tbf.png",
+      "PackagePath": "staticwebassets\\assets\\img\\lz2prlf1tbf.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\img\\xperia-z4-tablet-black-1240x840-a07acf270af4d6789d0e83aea747b064.png",
+      "PackagePath": "staticwebassets\\assets\\img\\xperia-z4-tablet-black-1240x840-a07acf270af4d6789d0e83aea747b064.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\js\\jquery-1.10.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.10.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\js\\jquery.hoverfold.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.hoverfold.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.16\\Desktop\\FinalExam\\FinalExam_Bilet7\\wwwroot\\assets\\js\\modernizr.custom.69142.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr.custom.69142.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FinalExam_Bilet7.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FinalExam_Bilet7.props",
+      "PackagePath": "build\\FinalExam_Bilet7.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalExam_Bilet7.props",
+      "PackagePath": "buildMultiTargeting\\FinalExam_Bilet7.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FinalExam_Bilet7.props",
+      "PackagePath": "buildTransitive\\FinalExam_Bilet7.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
